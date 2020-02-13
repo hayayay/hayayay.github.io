@@ -1,0 +1,146 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>喜欢阿瑶的每一天 on 喜欢阿瑶的每一天</title>
+    <link>https://hayayay.github.io/</link>
+    <description>Recent content in 喜欢阿瑶的每一天 on 喜欢阿瑶的每一天</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>All rights reserved - 2020</copyright>
+    <lastBuildDate>Thu, 13 Feb 2020 20:12:37 +0800</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://hayayay.github.io/about/</link>
+      <pubDate>Thu, 13 Feb 2020 20:12:37 +0800</pubDate>
+      
+      <guid>https://hayayay.github.io/about/</guid>
+      <description>
+&lt;style&gt;
+
+    @import url(&#39;https://fonts.googleapis.com/css?family=Katibeh&amp;display=swap&#39;);
+
+    .about-info {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+
+    .about-info-left li {
+        list-style-type: none;
+    }
+
+    .about-info-right {
+        margin: .5em 1.25em;
+    }
+
+    .about-info-right img {
+        width: 130px;
+    }
+
+    .about-info-right .left-ear,
+    .about-info-right .left-hand,
+    .about-info-right .right-ear,
+    .about-info-right .right-hand {
+        display: none;
+    }
+
+    @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+        .about-info {
+            flex-direction: column-reverse;
+            align-items: center;
+        }
+
+        .about-info-right {
+            margin: auto auto 2em;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .about-info-right img {
+            border-radius: 50%;
+            -webkit-border-radius: 50%;
+        }
+
+        .about-info-right .left-hand {
+            font-family: &#39;Katibeh&#39;;
+            display: inline;
+            font-size: 5em;
+            transform: translate(20px);
+            -moz-transform: translate(20px);
+            -webkit-transform: translate(20px);
+            -o-transform: translate(20px);
+        }
+
+        .about-info-right .right-hand {
+            font-family: &#39;Katibeh&#39;;
+            display: inline;
+            font-size: 5em;
+            transform: translate(-18px);
+            -moz-transform: translate(-18px);
+            -webkit-transform: translate(-18px);
+            -o-transform: translate(-18px);
+        }
+
+        .about-info-right .left-ear {
+            display: inline;
+            font-size: 1.2em;
+            align-self: flex-start;
+            transform: rotate(-40deg) translate(20px, 15px);
+            -moz-transform: rotate(-40deg) translate(20px, 15px);
+            -webkit-transform: rotate(-40deg) translate(20px, 15px);
+            -o-transform: rotate(-40deg) translate(20px, 15px);
+        }
+
+        .about-info-right .right-ear {
+            display: inline;
+            font-size: 1.2em;
+            align-self: flex-start;
+            transform: rotate(45deg) translate(-13px, 15px);
+            -moz-transform: rotate(45deg) translate(-13px, 15px);
+            -webkit-transform: rotate(45deg) translate(-13px, 15px);
+            -o-transform: rotate(45deg) translate(-13px, 15px);
+        }
+    }
+&lt;/style&gt;
+
+
+&lt;div class=&#34;about-info&#34;&gt;
+    &lt;div class=&#34;about-info-left&#34;&gt;
+        &lt;p&gt;大家好，这里是阿瑶和阿瑶饲养员的日常小天地～&lt;/p&gt;
+        &lt;h3&gt;饲养员联系方式：&lt;/h3&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;p&gt;&lt;span class=&#34;iconfont icon-mail&#34;&gt;&lt;/span&gt; Email: &lt;a href=&#34;mailto:zijiewang9928@gmail.com&#34;
+                            rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;zijiewang9928@gmail.com&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;p&gt;&lt;span class=&#34;iconfont icon-github&#34;&gt;&lt;/span&gt; GitHub: &lt;a href=&#34;https://github.com/GodLovesJonny&#34;
+                                rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;GodLovesJonny&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;h3&gt;阿瑶联系方式：&lt;/h3&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;p&gt;这就别想了哦~&lt;/p&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;about-info-right&#34;&gt;
+	    &lt;div class=&#34;left-hand&#34;&gt;&lt;span style=&#34;font-size: 0.5em&#34;&gt;&amp;ensp;&lt;/span&gt;٩&lt;/div&gt;
+        &lt;div class=&#34;left-ear&#34;&gt;▲&lt;/div&gt;
+        &lt;img alt=&#34;Mogeko&#34; src=&#34;https://hayayay.github.io/images/me/avatar.jpg&#34;&gt;
+        &lt;div class=&#34;right-ear&#34;&gt;▲&lt;/div&gt;
+        &lt;div class=&#34;right-hand&#34;&gt;و&lt;span style=&#34;font-size: 0.5em&#34;&gt;✧&lt;/span&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://hayayay.github.io/posts/</link>
+      <pubDate>Thu, 13 Feb 2020 19:19:57 +0800</pubDate>
+      
+      <guid>https://hayayay.github.io/posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
