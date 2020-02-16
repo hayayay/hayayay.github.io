@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 喜欢阿瑶的每一天</title>
-    <link>https://hayayay.github.io/posts/</link>
-    <description>Recent content in Posts on 喜欢阿瑶的每一天</description>
+    <title>四级 on 喜欢阿瑶的每一天</title>
+    <link>https://hayayay.github.io/tags/%E5%9B%9B%E7%BA%A7/</link>
+    <description>Recent content in 四级 on 喜欢阿瑶的每一天</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>All rights reserved - 2020</copyright>
     <lastBuildDate>Sat, 15 Feb 2020 20:30:19 +0800</lastBuildDate>
     
-	<atom:link href="https://hayayay.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hayayay.github.io/tags/%E5%9B%9B%E7%BA%A7/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>https://hayayay.github.io/2020/cet4writing/</guid>
       <description>英语四六级的第一个模块就是写作啦，所以写作文这半个小时的用户体验会直接影响后面部分的答题。 但是也不需要有太大的心理负担，作文和翻译作为主观题</description>
-    </item>
-    
-    <item>
-      <title>小仙女阿瑶的饲养小攻略</title>
-      <link>https://hayayay.github.io/2020/ayfeed/</link>
-      <pubDate>Thu, 13 Feb 2020 19:19:57 +0800</pubDate>
-      
-      <guid>https://hayayay.github.io/2020/ayfeed/</guid>
-      <description>阿瑶超级喜欢榴莲 阿瑶喜欢切好的水果但不是个懒宝宝 阿瑶有段时间喜欢葡萄 阿瑶喜欢喝椰汁 阿瑶喜欢喝奶粉 阿瑶喜欢吃咸蛋黄 阿瑶喜欢蛋黄锅巴 阿瑶超喜欢蛋</description>
     </item>
     
   </channel>
